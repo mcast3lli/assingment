@@ -1,0 +1,9 @@
+build.properties
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+*.sublime-settings
+config
+deploy
+npm-debug.log*
+mm.log*
